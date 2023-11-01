@@ -5,14 +5,13 @@ A very simple firebase-react-vite app
 
 ### Prerequisites
 
-You must have Google's Firebase account setup
+You must have Google's Firebase account setup\
 Copy .env.local to .env
 
 ```
 cp .env.local .env
 ```
-Add your Google's Firebase project settings inside .env file
-
+Add your Google's Firebase project settings inside .env file\
 **Never commit .env file with your api key in public repo**
 
 ### Installing
@@ -24,8 +23,7 @@ npm run dev
 
 ### Linting
 
-To check for linting issues, you can go to frontend folder
-and run
+To check for linting issues, you can run
 
 ```
 npm run lint
@@ -37,34 +35,15 @@ npm run lint
 - [Firebase](https://firebase.google.com/) - Cloud based NoSQL database
 - [Vite](https://vitejs.dev/) - Dev environment for front-end
 
+
 ## Use as reference material
 
 Please use as a reference material
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kalwar/firebase-react-vite/blob/main/LICENSE) file for details
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # React + Vite
